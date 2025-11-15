@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Mystic Scribe's Sanctuary",
+  "description": "A personal sanctuary to publish writings and journals, listen to enchanting music, and interact with mystical AI-powered tools. Features a voice-conversational oracle and an image-editing spellbook, all wrapped in a responsive, fantasy-themed interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
